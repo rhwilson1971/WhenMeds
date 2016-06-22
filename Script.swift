@@ -15,4 +15,6 @@ class Script: Object {
     dynamic var dosage = ""
     dynamic var refills = 0;
     dynamic var sideEffects = ""
+    dynamic var type = ""
+    dynamic var size = ""
 }
